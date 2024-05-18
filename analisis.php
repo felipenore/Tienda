@@ -1,6 +1,5 @@
 <?php
 include('header.php')
-#ASDASDASS
 ?>
             <main class="col-md-9 col-lg-10 d-md-block">
                 <div class="container-fluid">
