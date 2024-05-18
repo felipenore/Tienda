@@ -1,7 +1,7 @@
 <?php
 #Inicializacion de la sesion
 session_start();
-
+#1sdaasd
 # Imprimir contenido de una variable
 // var_dump($_POST);
 
